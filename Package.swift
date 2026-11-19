@@ -19,8 +19,8 @@ let package = Package(
         // `MoneyHashShared-cocoapods.xcframework.zip` asset of the mobile-one release.
         .binaryTarget(
             name: "MoneyHashShared",
-            url: "https://github.com/MoneyHash/Moneyhash-Shared-CP/releases/download/4.2.2/MoneyHashShared.xcframework.zip",
-            checksum: "53b0bb6660bdda66522924d84db0992fd70c908e595408889fd5bd803d6777b4"
+            url: "https://github.com/MoneyHash/Moneyhash-Shared-CP/releases/download/4.2.3/MoneyHashShared.xcframework.zip",
+            checksum: "fa90d03358a1373ed80971e9c5a47721429fb9feee56bc4449c2a6befe2f43ed"
         )
     ]
 )
